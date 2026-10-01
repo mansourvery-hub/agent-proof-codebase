@@ -1,5 +1,6 @@
 ---
 name: agent-proof-codebase
+version: 0.1.0
 description: Build, audit, and work inside codebases whose deterministic gates (invariant specs, property/model/differential/crash-consistency tests, mutation testing, fail-to-pass bug-fix proof, ratchets, protected referee files, red-team corpus) make any accepted change high-signal even from weak or sloppy AI agents. Use whenever the user wants to harden a repo against low-quality or AI-generated code, design CI quality gates, make tests that can actually fail instead of checkbox tests, audit test-suite strength, set up mutation testing, write invariants or a SPEC, add performance budgets or ratchets, prepare a project for release with rigorous verification, stop agents from gaming tests, or asks for bulletproof, antifragile, or "premium quality" code. Also use when a repo already has SPEC.md, GATES.md, or .gates/ and you are asked to change it.
 ---
 

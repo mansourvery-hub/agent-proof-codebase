@@ -40,3 +40,4 @@ and adapt the TODO lines to the project's real tools.
 - Scripts need only Python 3 and git (plus bash for `fail_to_pass_check.sh`).
 - Tool names in `references/13-ecosystem-map.md` change over time; verify maintenance before adopting.
 - Protect the copied `scripts/`, `.gates/`, SPEC.md, GATES.md and CI files with CODEOWNERS, otherwise the gates are advisory.
+- Released under the [MIT License](LICENSE).
